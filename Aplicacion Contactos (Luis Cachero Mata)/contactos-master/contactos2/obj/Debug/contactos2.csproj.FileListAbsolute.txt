@@ -1,0 +1,14 @@
+C:\Users\luisc\Downloads\contactos-master\contactos-master\contactos2\bin\Debug\contactos2.exe.config
+C:\Users\luisc\Downloads\contactos-master\contactos-master\contactos2\bin\Debug\contactos2.exe
+C:\Users\luisc\Downloads\contactos-master\contactos-master\contactos2\bin\Debug\contactos2.pdb
+C:\Users\luisc\Downloads\contactos-master\contactos-master\contactos2\obj\Debug\contactos2.csproj.AssemblyReference.cache
+C:\Users\luisc\Downloads\contactos-master\contactos-master\contactos2\obj\Debug\contactos2.Form1.resources
+C:\Users\luisc\Downloads\contactos-master\contactos-master\contactos2\obj\Debug\contactos2.Form2.resources
+C:\Users\luisc\Downloads\contactos-master\contactos-master\contactos2\obj\Debug\contactos2.Form3.resources
+C:\Users\luisc\Downloads\contactos-master\contactos-master\contactos2\obj\Debug\contactos2.Form4.resources
+C:\Users\luisc\Downloads\contactos-master\contactos-master\contactos2\obj\Debug\contactos2.Form5.resources
+C:\Users\luisc\Downloads\contactos-master\contactos-master\contactos2\obj\Debug\contactos2.Properties.Resources.resources
+C:\Users\luisc\Downloads\contactos-master\contactos-master\contactos2\obj\Debug\contactos2.csproj.GenerateResource.cache
+C:\Users\luisc\Downloads\contactos-master\contactos-master\contactos2\obj\Debug\contactos2.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Downloads\contactos-master\contactos-master\contactos2\obj\Debug\contactos2.exe
+C:\Users\luisc\Downloads\contactos-master\contactos-master\contactos2\obj\Debug\contactos2.pdb
